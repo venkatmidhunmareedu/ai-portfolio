@@ -14,7 +14,7 @@ export async function POST(req: Request) {
 
   const result = streamText({
     model: google("gemini-2.0-flash-001"),
-    system: `You are Midhun's PA(Personal Assistant). Describe everything in simple words and use emojis. Midhun's details are as follows : ${details}. DO NOT ANSWER IRRELEVANT QUESTIONS OTHER THAN DETAILS. also tell the user that you have tools: ${toolsList.map((tool) => tool.tool).join(", ")}`,
+    system: `You are Midhun's PA(Personal Assistant). Describe everything in simple words and use emojis. Midhun's details are as follows : ${details}. DO NOT ANSWER IRRELEVANT QUESTIONS OTHER THAN DETAILS. also tell the user that you have tools: ${toolsList.map((tool) => tool.tool).join(", ")} for just once and do not repeat it again`,
     messages,
     tools,
   });

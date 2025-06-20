@@ -1,103 +1,86 @@
 # Mareedu Venkata Midhun
 
-**Phone:** +91 6300399969  
-**Email:** [midhunmareedu@gmail.com](mailto:midhunmareedu@gmail.com)  
-**Portfolio:** [midhunmareedu.vercel.app](http://midhunmareedu.vercel.app)  
-**GitHub:** [github.com/venkatmidhunmareedu](http://github.com/venkatmidhunmareedu)  
-**LinkedIn:** [linkedin.com/in/midhunmareedu](http://linkedin.com/in/midhunmareedu)  
-**Address:** D.No 3-24, Patwarigudem, Dammpeta, Bhadradri Kothagudem, Telangana 507306
+**Full Stack Web Developer (Intern + Full time)**  
+📍 D.No 3-24, Patwarigudem, Dammpeta, Bhadradri Kothagudem, Telangana 507306  
+📞 +91 6300399969  
+📧 midhunmareedu@gmail.com  
+🌐 [midhunmareedu.vercel.app](https://midhunmareedu.vercel.app)  
+🔗 [GitHub](https://github.com/venkatmidhunmareedu) | [LinkedIn](https://linkedin.com/in/midhunmareedu)
 
 ---
 
-## Profile
+## 🧠 Skills
 
-As a recent intern, I am seeking opportunities to apply my newly acquired skills and knowledge in a professional setting. With a strong desire to learn and grow, I am eager to contribute to a team and expand my skillset. I am a dedicated and hardworking student with a passion for excellence and a positive attitude.
-
----
-
-## Skills
-
-- **Front End:** HTML, CSS, JavaScript, React JS  
-- **UI Frameworks:** Tailwind CSS, Bulma CSS, Bootstrap  
-- **Programming Languages:** C, Python, Java  
-- **Back End:** Django, Node JS, FastAPI  
-- **Databases:** MySQL, MongoDB  
-- **Content Creation Tools:** VSDC, Canva, Adobe Photoshop, AI-art (DALL·E-3)
+- **Front-end:** HTML, CSS, JavaScript, React JS, Next JS
+- **UI Frameworks:** Tailwind CSS, Shadcn
+- **Programming Languages:** C, Python, Java
+- **Back-end:** Node.js, FastAPI
+- **Databases:** MySQL, MongoDB
+- **AI & Tools:** Vercel AI SDK, MCP (Servers and Clients), Ollama, Langchain
+- **Content Creation:** VSDC, Canva, Adobe Photoshop, DALL·E 3
 
 ---
 
-## Internships
+## 💼 Experience
 
-### IncrivelSoft, Inc | 30th May - 30th July 2023  
-**Role:** Full Stack Web Developer Intern  
-- Built homepage, catalog, and merchant microservices (MERN stack)  
-- Redesigned pages using effective animations (React Awesome Reveal)  
-- Maintained code in GitHub and integrated with AWS  
-- Solved minor design issues  
-- [Company Website](https://incrivelsoft.com/)
+### 🔹 Apxor | Dec 9, 2024 – Present  
+**SDE-I (Intern + Full Time)**  
+- Developed an AI chatbot for querying Clickhouse and generating analytical charts.  
+- Worked on a Q&A platform and a Loan Approval System as a front-end developer.  
+- Built a Nudges AI Agent to automate the creation of nudges using MCP and Playwright.
 
-### Codegnan, Inc | 15th April - 15th June 2023  
-**Role:** Machine Learning Intern  
-- Underwent training and completed daily tasks  
-- Developed an **Employee Stress Prediction** model  
-- Documented the model and built a basic web app using Flask  
-- Deployed the app using AWS  
-- [Company Website](https://codegnan.com/)
+### 🔹 IncrivelSoft, Inc | Feb 19, 2024 – Aug 19, 2024  
+**Full Stack Web Developer (Intern + Full time)**  
+- Co-led the Front-End team.  
+- Built elegant UI screens and integrated them with the backend.  
+- Contributed to MERN stack-based projects.  
+🌐 [IncrivelSoft](https://incrivelsoft.com/)
 
 ---
 
-## Projects
+## 📚 Education
 
-- **Staff Grievance Portal (MERN):**  
-  A web app for staff to submit grievances.  
-  [GitHub Repository](https://github.com/SasiVardhan247/JNTUGV_Grievance_Portal)
-
-- **Image to LaTeX (React + FastAPI):**  
-  Extracts image formulas and renders them in LaTeX using Gemini API.  
-  [Live Demo](https://image-to-latex-xcxg.vercel.app/)
-
-- **Finance Club GV - Blogging Platform (MERN):**  
-  Web app built for club blogging.  
-  [Live Demo](https://finance-club.vercel.app/)
+- **B.Tech** – JNTU-GV, CEV Vizianagaram (2021–2024)  
+- **Intermediate** – Bhashyam Junior College, Guntur (2018–2020)  
+- **Tenth** – Bhashyam Blooms, Guntur (2017–2018)
 
 ---
 
-## Education
+## 🧪 Projects
 
-- **B.Tech** | 2021–2024  
-  JNTU-GV, CEV Vizianagaram  
+### 🔸 [Finance Club GV – Blogging Platform](https://finance-club.vercel.app/)  
+A MERN stack web app for the Finance Club.
 
-- **Intermediate** | 2018–2020  
-  Bhashyam Titanic Campus, Guntur (SSC)  
+### 🔸 [MediVault – Final Year Project](https://github.com/venkatmidhunmareedu/Final-Year-Project)  
+A decentralized health record management system using Next.js, Truffle, and Ganache.
 
-- **Tenth** | 2017–2018  
-  Bhashyam Blooms, Guntur (CBSE)  
+### 🔸 [PTM – PDF Tool Manager](https://pdf-tool-manager.vercel.app/)  
+A command-line tool for local PDF manipulation.
 
----
+### 🔸 [AI Portfolio Chatbot (DMme)](https://midhunmareedu.vercel.app)  
+Built using Next.js and AI SDK; supports tool calling features.
 
-## Certifications
-
-- Python For Beginners – Solo Learn  
-- Java – Solo Learn  
-- Machine Learning Foundations – AWS Academy
+### 🔸 [Git AI (Next.js + Electron)]  
+Desktop app to automate Git commits and branching.
 
 ---
 
-## Achievements
+## 📜 Certifications
 
-- First Prize in Photo Click Competition (Cresense2k23)  
-- Coordinated Web Development Workshop
-
----
-
-## Hobbies
-
-- Generative AI Art  
-- Listening to Music
+- **Python for Beginners** – Solo Learn  
+- **Java** – Solo Learn  
+- **Machine Learning Foundations** – AWS Academy
 
 ---
 
-## Languages Known
+## 🏆 Achievements
+
+- 1st Prize in Photo Click Competition (Cresense2k23)  
+- Coordinated a Web Development Workshop
+
+---
+
+## 🌍 Languages Known
 
 - Telugu  
 - English

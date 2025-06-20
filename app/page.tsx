@@ -89,7 +89,7 @@ export default function Home() {
                 tools.length > 0 && (
                   <>
                     <p className="text-xs">Tools available:</p>
-                    <div className="flex space-x-2 text-xs">
+                    <div className="flex space-x-2 text-xs max-w-full overflow-x-auto">
                       {tools.map((tool: Tool) => (
                         <TooltipProvider key={tool.tool}>
                           <Tooltip>
